@@ -1,0 +1,21 @@
+Research Question: 
+How does LLM process different language?
+Does it automatically translate other language into English?
+Will there be a difference when inputs share the same meaning but in different language?
+How input language affect the final output?
+How does it deal with cultural conflicts?
+
+Why it matters:
+Given the widespread global influence of large language models, 
+we recognize that mainstream international models are primarily built within an English-language environment. 
+While they can be trained on texts in other languages, as these models proliferate, 
+they will need to process an increasing number of languages, leading to higher training costs. 
+Simultaneously, the diversity of cultural contexts presents a significant challenge for these models. 
+Personally, I have encountered instances where large models struggled to effectively handle cross-language inputs and cross-cultural research.
+Therefore, we aim to investigate the approaches large language models employ for processing different languages, 
+including the  cross-language input and cultural alignment issues. 
+This research may lead to breakthroughs in how LLMs handle complex multilingual domains.
+
+Uniqueness: 
+Our project moves beyond "what" the model outputs to "how" it thinks, 
+using Mechanistic Interpretability to bridge the gap between hard engineering and social linguistics.
